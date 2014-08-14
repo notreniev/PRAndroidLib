@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <!--
+ <include
+        android:id="@+id/list_item_section_text"
+        layout="@android:layout/preference_category"
+ />
+    -->
+
+    <TextView
+        android:id="@+id/list_item_section_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#003366"
+        android:padding="6dp"
+        android:shadowColor="#000"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+</LinearLayout>

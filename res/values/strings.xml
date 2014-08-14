@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">PRAndroidLib</string>
+	<string name="fechar">Fechar</string>
+	<string name="icone"></string>
+	
+    <plurals name="countdown_seconds">
+        <item quantity="one">Removendo in 1...</item>
+        <item quantity="other">Removendo in %d...</item>
+    </plurals>
+    
+    <string name="countdown_dismissing">Removendo</string>
+    <string name="removeselected">Remove selecionado</string>
+
+</resources>
