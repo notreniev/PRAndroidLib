@@ -33,8 +33,8 @@ public class EntryAdapter extends ArrayAdapter<Item> {
 	}
 
 	/**
-	 * Método que retorna a posição
-	 * de um item de menu que não seja
+	 * M√©todo que retorna a posi√ß√£o
+	 * de um item de menu que n√£o seja
 	 * um item do tipo SectionItem
 	 * @param item
 	 * @return
